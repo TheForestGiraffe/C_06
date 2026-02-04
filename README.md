@@ -6,7 +6,7 @@ The goal of this module is to build understanding of **command-line arguments**,
 
 ---
 
-## 📍 Part of My 42 Learning Path
+## Part of My 42 Learning Path
 
 This module is part of the Piscine foundation that prepared me for
 larger projects such as:
@@ -20,7 +20,7 @@ It represents an early stage of my progression toward low-level and system progr
 
 ---
 
-## 🧠 What This Module Covers
+## What This Module Covers
 
 - Handling `argc` and `argv`
 - Parsing and validating command-line arguments
@@ -48,7 +48,7 @@ C_06/
 - Each `.c` file corresponds to one exercise
 - `C_06.pdf` contains the original subject and instructions
 
-### 📌 Note on Repository Structure
+### Note on Repository Structure
 
 For readability and transparency, the exercise files in this repository
 are stored at the root level.
@@ -71,7 +71,7 @@ Typical tasks in this module include:
 
 ---
 
-## 🎯 Skills Demonstrated
+## Skills Demonstrated
 
 By completing this module, I improved my abilities in:
 
@@ -83,7 +83,7 @@ By completing this module, I improved my abilities in:
 
 ---
 
-## 📌 Notes
+## Notes
 
 - Developed and tested on Linux
 - Compiled using `gcc`
