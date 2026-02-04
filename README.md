@@ -48,6 +48,16 @@ C_06/
 - Each `.c` file corresponds to one exercise
 - `C_06.pdf` contains the original subject and instructions
 
+### 📌 Note on Repository Structure
+
+For readability and transparency, the exercise files in this repository
+are stored at the root level.
+
+During the original 42 Piscine submission, all files were organized
+according to the required structure (`ex00`, `ex01`, etc.).
+
+They were later flattened for easier browsing and code review.
+
 ---
 
 ## 🛠 Examples of Assignments
